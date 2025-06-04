@@ -30,7 +30,7 @@ Che tu sia qui per conoscere meglio il nostro lavoro, contribuire ai nostri prog
 
 ## Partecipa
 
-🎤 **Parliamoci** – *Hai un'idea o una domanda? Credi nel valore della formazione scolastica come noi?* Contattaci scrivendo a udati at zanichelli dot it
+🎤 **Parliamoci** – *Hai un'idea o una domanda? Credi nel valore della formazione scolastica come noi?* Contattaci scrivendo a **udati at zanichelli dot it** o **gsavino at zanichelli dot it**
 
 👨‍💻 **Contribuisci** – Apri pure una PR per parlare con noi
 

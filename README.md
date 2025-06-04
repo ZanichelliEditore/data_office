@@ -33,7 +33,7 @@ Whether you're here to learn more about our work, contribute to our projects, or
 
 👨‍💻 **Contribute** – Feel free to open a PR to talk with us
 
-🎤 **Let’s Talk** – Have an idea or question? Reach out via **udati at zanichelli dot it**
+🎤 **Let’s Talk** – Have an idea or question? Reach out via **udati at zanichelli dot it** or **gsavino at zanichelli dot it**
 
 📬 **Connect** – Follow us on social media to know more about the publishing house:
 
