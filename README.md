@@ -23,7 +23,7 @@ We are a crew of thinkers working together to create impactful software that sol
 
 ## Why We’re Here?
 
-We're excited to be sponsor of **PyCon 2025**, where we aim to connect with fellow developer, share insights, and explore collaboration opportunities. We strongly support **open-source development** and believe in **Python** as a language that broadens awareness and accessibility in coding. Our mission is to empower developers of all backgrounds by contributing to open-source projects and fostering a collaborative community.
+We sponsored **PyCon IT 2025**, because we aim to connect with fellow developer, share insights, and explore collaboration opportunities. We strongly support **open-source development** and believe in **Python** as a language that broadens awareness and accessibility in coding. Our mission is to empower developers of all backgrounds by contributing to open-source projects and fostering a collaborative community.
 
 Additionally, we work for a publishing house, **Zanichelli editore**, committed to **training the young generation**. Nowadays, we publish books that are used in Italian schools to teach Python and help students learn how to solve scientific problems using Python. This publishing house has a rich history, being the first to publish works from Einstein and Darwin in Italy. We believe that fostering education and open knowledge is a key pillar of technological progress.
 
@@ -45,6 +45,8 @@ Whether you're here to learn more about our work, contribute to our projects, or
 ---
 
 ⭐ **Join us in building the future of training, helping teachers and students!**
+
+[Open positions](https://2025.pycon.it/en/jobs/59)
 
 *Roberta,
 Mirco,
